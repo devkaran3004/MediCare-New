@@ -1,0 +1,17 @@
+
+{
+  "expo": {
+    "name": "MediCare",
+    "slug": "medicare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.medicare.health"
+    },
+    "android": {
+      "package": "com.medicare.health"
+    }
+  }
+}
